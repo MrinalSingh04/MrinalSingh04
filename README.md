@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Mrinal Singh]
 
-<!--
-**MrinalSingh04/MrinalSingh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A Full-Stack & Blockchain Developer with **2+ years of hands-on project experience**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Blockchain:** Solidity, Hardhat, Foundry, Ethers.js
+- **Other:** Git, Postman, VSCode, Linux, WSL
+- **Learning:** DeFi, DevOps, CI/CD
+
+---
+
+## 🧠 About Me
+
+- 💼 Built 80+ smart contracts & multiple DApps from scratch  
+- 🔨 Passionate about building full-stack Web2 & Web3 applications  
+- 🌱 Exploring DeFi protocols and mastering DevOps tools  
+- 🧑‍💻 Open to remote opportunities and freelance collaborations  
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/mrinal-singh-43a9661a0/)
+- [Twitter](https://twitter.com/MrinalS74850173)
+
+

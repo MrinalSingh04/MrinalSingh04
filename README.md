@@ -4,22 +4,22 @@
 
 ---
 
-## 💻 Tech Stack
-
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, MySQL
-- **Blockchain:** Solidity, Hardhat, Foundry, Ethers.js
-- **Other:** Git, Postman, VSCode, Linux, WSL
-- **Learning:** DeFi, DevOps, CI/CD
-
----
-
 ## 🧠 About Me
 
 - 💼 Built 80+ smart contracts & multiple DApps from scratch  
 - 🔨 Passionate about building full-stack Web2 & Web3 applications  
 - 🌱 Exploring DeFi protocols and mastering DevOps tools  
 - 🧑‍💻 Open to remote opportunities and freelance collaborations  
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Blockchain:** Solidity, Hardhat, Foundry, Ethers.js
+- **Other:** Git, Postman, Linux, WSL
+- **Learning:** DeFi, DevOps, CI/CD
 
 ---
 

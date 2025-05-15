@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 💼 Built 80+ smart contracts & multiple DApps from scratch  
+- 💼 Built 90+ smart contracts & multiple DApps from scratch  
 - 🔨 Passionate about building full-stack Web2 & Web3 applications  
 - 🌱 Exploring DeFi protocols and mastering DevOps tools  
 - 🧑‍💻 Open to remote opportunities and freelance collaborations  

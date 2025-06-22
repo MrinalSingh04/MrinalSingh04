@@ -10,8 +10,11 @@
 - Exploring **DeFi**, **real-time apps with Socket.io**, and **DevOps**
 - Open to **remote roles** and **freelance opportunities** 
 
+
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-singh-43a9661a0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MrinalS74850173) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrinalsingh7000@gmail.com) 
+
 
 # 💻 Tech Stack:
 
@@ -21,8 +24,16 @@
 - **Other:** Git, Postman, Linux, WSL
 - **Learning:** DeFi, DevOps, CI/CD
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrinalsingh04&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrinalsingh04&limit=5&theme=transparent&combine_all_yearly_contributions=true)

@@ -11,11 +11,6 @@
 - Open to **remote roles** and **freelance opportunities** 
 
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-singh-43a9661a0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MrinalS74850173) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrinalsingh7000@gmail.com) 
-
-
 # 💻 Tech Stack:
 
 - **Frontend:** React.js, Next.js, Tailwind CSS
@@ -24,6 +19,9 @@
 - **Other:** Git, Postman, Linux, WSL
 - **Learning:** DeFi, DevOps, CI/CD
 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-singh-43a9661a0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MrinalS74850173) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrinalsingh7000@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>

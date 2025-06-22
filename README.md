@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Mrinal Singh
 
-🚀 A Full-Stack & Blockchain Developer with **2+ years of hands-on project experience**.
+🚀 A Full-Stack Web & Blockchain Developer with **2+ years of hands-on project experience**.
 
 ## 🧠 About Me
 

@@ -36,7 +36,7 @@ Over the past 2 years, I've:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=radical&hide_border=false&layout=compact)
 
@@ -45,6 +45,12 @@ Over the past 2 years, I've:
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mrinalsingh04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=mrinalsingh04&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 

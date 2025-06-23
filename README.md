@@ -33,10 +33,6 @@ Over the past 2 years, I've:
 
 ---
 
-## Stats 
-
-![Mrinal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&show_icons=true&theme=default&count_private=true)
-
 
 ## 🌐 Connect with Me
 
@@ -46,9 +42,6 @@ Over the past 2 years, I've:
 
 ---
 
-
-
----
 
 ## 🏆 GitHub Trophies
 

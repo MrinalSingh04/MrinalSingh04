@@ -44,7 +44,7 @@ Over the past 2 years, I've:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrinalsingh04)](https://git.io/streak-stats)
+
 
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=transparent&hide_border=false&layout=compact)

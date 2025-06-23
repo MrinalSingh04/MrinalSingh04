@@ -44,11 +44,9 @@ Over the past 2 years, I've:
 
 ## 📊 GitHub Stats
 
-(https://github-readme-streak-stats.herokuapp.com?user=mrinalsingh04&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=transparent&hide_border=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies

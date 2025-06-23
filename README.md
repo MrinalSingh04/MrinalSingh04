@@ -62,6 +62,11 @@ Over the past 2 years, I've:
 
 ---
 
+## Stats 
+
+![Mrinal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&show_icons=true&theme=default&count_private=true)
+
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-singh-43a9661a0)

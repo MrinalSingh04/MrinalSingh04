@@ -23,7 +23,7 @@ Over the past 2 years, I've:
 | Category            | Technologies / Tools                                                |
 |---------------------|----------------------------------------------------------------------|
 | **Frontend**         | React.js, Next.js, Tailwind CSS, Material UI                        |
-| **Backend**          | Node.js, Express.js, MongoDB, MySQL, REST APIs                      |
+| **Backend & DB**     | Node.js, Express.js, MongoDB, MySQL, REST APIs                      |
 | **Blockchain**       | Solidity, Hardhat, Foundry, Chainlink, Ethers.js, Web3.js           |
 | **Tools & Platforms**| Git, GitHub, Postman, WSL, Linux, Vercel, Netlify                   |
 | **DevOps & Testing** | Docker, GitHub Actions (CI/CD), Jest, Mocha                         |

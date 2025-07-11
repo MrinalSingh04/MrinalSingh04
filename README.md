@@ -8,7 +8,7 @@ I'm a passionate developer who thrives on building robust Web2 and Web3 applicat
 Over the past 2 years, I've:
 
 - Built **100+ smart contracts** and multiple full-stack **dApps**
-- Worked with **microservices**, **real-time apps (Socket.io)**, and scalable backend systems
+- Working with **microservices**, **real-time apps (Socket.io)**, and scalable backend systems
 - Explored areas like **DeFi**, **DevOps**, and **CI/CD pipelines**
 
 💼 Open to **remote roles**, **freelance opportunities**, and **collaborative projects**

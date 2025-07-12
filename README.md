@@ -3,7 +3,7 @@
 🚀 Full-Stack Web & Blockchain Developer | 2+ Years of Hands-On Project Experience
 
 ## 🧠 About Me 
-
+ 
 I'm a passionate developer who thrives on building robust Web2 and Web3 applications.  
 Over the past 2 years, I've:
 

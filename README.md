@@ -5,7 +5,7 @@
 ## 🧠 About Me 
  
 I'm a passionate developer who thrives on building robust Web2 and Web3 applications.  
-Over the past 2 years, I've:
+Over the past 3 years, I've:
 
 - Built **150+  Solidity smart contracts** and multiple full-stack **dApps**
 - Working with **microservices**, **real-time apps (Socket.io)**, and scalable backend systems

@@ -61,3 +61,14 @@ Over the past 3 years, I've:
 [![](https://visitcount.itsvg.in/api?id=mrinalsingh04&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created using GPRM: https://gprm.itsvg.in -->
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinalsingh04&theme=tokyonight&area=true" />
+</p>
+
+
+
+<img src="https://hit.yhype.me/github/profile?account_id=191824558" alt="YHYPE_Profile Views" />

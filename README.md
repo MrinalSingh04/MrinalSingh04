@@ -44,8 +44,9 @@ Over the past **3+ years**, I’ve:
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=transparent&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=transparent&layout=compact&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=transparent&hide_border=false)
+
 
 ---
 

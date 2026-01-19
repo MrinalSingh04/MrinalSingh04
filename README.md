@@ -43,20 +43,12 @@ Over the past **3+ years**, I’ve:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=transparent&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=transparent&layout=compact&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=transparent&hide_border=false)
-
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=mrinalsingh04&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=mrinalsingh04&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 🔥 Contribution Graph
 

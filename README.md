@@ -4,35 +4,34 @@
 
 ## 🧠 About Me 
  
-I'm a passionate developer who thrives on building robust Web2 and Web3 applications.  
-Over the past 3 years, I've:
+I'm a passionate **Full-Stack & Blockchain Developer** who thrives on building scalable Web2 systems and secure Web3 applications.  
+Over the past **3+ years**, I’ve:
 
-- Built **150+  Solidity smart contracts** and multiple full-stack **dApps**
-- Working with **microservices**, **real-time apps (Socket.io)**, and scalable backend systems
-- Explored areas like **DeFi**, **DevOps**, and **CI/CD pipelines**
+- Built **150+ Solidity smart contracts** and multiple production-ready **dApps**
+- Worked with **microservices**, **real-time applications (Socket.io)**, and scalable backend architectures
+- Designed blockchain solutions focused on **security, transparency, and gas efficiency**
+- Explored **DeFi protocols**, **DevOps practices**, and **CI/CD pipelines**
 
-💼 Open to **remote roles**, **freelance opportunities**, and **collaborative projects**
+💼 Open to **remote roles**, **freelance opportunities**, and **long-term collaborations**
 
 ---
-
 
 ## 🚀 Tech Stack & Tools
 
-
-
-| Category            | Technologies / Tools                                                |
-|---------------------|----------------------------------------------------------------------|
-| **Frontend**         | React.js, Next.js, Tailwind CSS, Material UI                        |
-| **Backend & DB**     | Node.js, Express.js, MongoDB, MySQL, REST APIs                      |
-| **Blockchain**       | Solidity, Hardhat, Foundry, Chainlink, Ethers.js, Web3.js           |
-| **Tools & Platforms**| Git, GitHub, Postman, WSL, Linux, Vercel, Netlify                   |
-| **DevOps & Testing** | Docker, GitHub Actions (CI/CD), Jest, Mocha                         |
+| Category | Technologies / Tools |
+|--------|----------------------|
+| **Programming Languages** | JavaScript (ES6+), TypeScript, Solidity, Rust |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Material UI |
+| **Backend & Databases** | Node.js, Express.js, MongoDB, MySQL |
+| **API & Architecture** | REST APIs, MVC Architecture |
+| **Blockchain (Ethereum)** | Solidity, Hardhat, Foundry, Chainlink, Ethers.js, Web3.js |
+| **Blockchain (Solana)** | Rust, Solana Program Library (SPL), Anchor Framework |
+| **DevOps & Deployment** | Docker, GitHub Actions (CI/CD), Vercel, Netlify |
+| **Testing** | Jest, Mocha |
+| **Tools & Platforms** | Git, GitHub, Postman, Linux, WSL |
 | **Currently Exploring** | DeFi Protocols, Layer 2s (Optimism, Arbitrum, zkSync), The Graph, Kubernetes |
 
-
-
 ---
-
 
 ## 🌐 Connect with Me
 
@@ -44,19 +43,18 @@ Over the past 3 years, I've:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mrinalsingh04&theme=transparent&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=mrinalsingh04&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsingh04&theme=transparent&layout=compact&hide_border=false)
 
 ---
 
+## 🔝 Top Contributed Repositories
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrinalsingh04&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=mrinalsingh04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Created using GPRM: https://gprm.itsvg.in -->
 ---
 
 ## 🔥 Contribution Graph
@@ -65,6 +63,6 @@ Over the past 3 years, I've:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinalsingh04&theme=tokyonight&area=true" />
 </p>
 
+<img src="https://hit.yhype.me/github/profile?account_id=191824558" alt="Profile Views" />
 
-
-<img src="https://hit.yhype.me/github/profile?account_id=191824558" alt="YHYPE_Profile Views" />
+---

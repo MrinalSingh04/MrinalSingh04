@@ -1,5 +1,4 @@
-# 👋 Hi there, I'm Mrinal Singh
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="gouri9230" /> </p>
+# 👋 Hi there, I'm Mrinal Singh                                          <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="gouri9230" /> </p>
 
 🚀 Full-Stack Web & Blockchain Developer | 3+ Years of Hands-On Project Experience
 

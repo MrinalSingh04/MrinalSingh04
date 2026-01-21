@@ -15,6 +15,8 @@ Over the past **3+ years**, I’ve:
 💼 Open to **remote roles**, **freelance opportunities**, and **long-term collaborations**
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="gouri9230" /> </p>
+---
 
 ## 🚀 Tech Stack & Tools
 

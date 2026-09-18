@@ -21,7 +21,7 @@ Over the past **3+ years**, I’ve:
 
 | Category | Technologies / Tools |
 |--------|----------------------|
-| **Programming Languages** | JavaScript (ES6+), TypeScript, Solidity, Rust |
+| **Programming Languages** | Java, Solidity, Rust, JavaScript (ES6+), TypeScript |
 | **Frontend** | React.js, Next.js, Tailwind CSS, Material UI |
 | **Backend & Databases** | Node.js, Express.js, MongoDB, MySQL |
 | **API & Architecture** | REST APIs, MVC Architecture |

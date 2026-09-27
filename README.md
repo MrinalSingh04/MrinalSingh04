@@ -43,6 +43,26 @@ Experienced across **full-stack development, system design, cloud and DevOps, bl
 
 ---
 
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrinalsingh04&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=mrinalsingh04&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinalsingh04&bg_color=00000000&color=9CA3AF&line=8B5CF6&point=8B5CF6&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
 <div align="center">
 
 **Building scalable systems across Web, Cloud, Blockchain & AI.**

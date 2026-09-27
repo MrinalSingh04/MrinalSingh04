@@ -12,6 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrinalsingh04)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:mrinalsingh7000@gmail.com)
 
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mrinalsingh04&label=PROFILE+VIEWS&color=6D28D9&style=flat-square)
 
 </div>
@@ -42,8 +44,6 @@ Experienced across **full-stack development, system design, cloud and DevOps, bl
 | **Tools** | Git · GitHub · Postman · Jest · Mocha |
 
 ---
-
-## 📊 GitHub
 
 <div align="center">
 

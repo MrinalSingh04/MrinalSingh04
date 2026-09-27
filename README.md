@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Mrinal Singh
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=160&section=header&text=Mrinal%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -22,9 +20,9 @@
 
 ## 🧠 About Me
 
-Full-Stack Software Engineer focused on building **scalable web applications, backend systems, cloud-native solutions, and AI-powered products**.
+Full-Stack Software Engineer focused on designing and building **scalable web applications, backend systems, cloud-native infrastructure, blockchain solutions, and AI-powered products**.
 
-Experienced across **full-stack development, system design, cloud and DevOps, blockchain, and Generative AI**, with an emphasis on clean architecture and production-ready software.
+My engineering focus spans **system design, distributed systems, cloud and DevOps, blockchain, and Generative AI**, with an emphasis on **clean architecture, performance, reliability, and maintainability**.
 
 ---
 
@@ -32,7 +30,7 @@ Experienced across **full-stack development, system design, cloud and DevOps, bl
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Java · TypeScript · JavaScript · Solidity · Rust · SQL |
+| **Languages** | Java · TypeScript · JavaScript · Rust · SQL |
 | **CS & Engineering** | Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks |
 | **System Design** | HLD · LLD · System Architecture · Microservices · Distributed Systems |
 | **Frontend** | React · Next.js · Tailwind CSS · Material UI |
@@ -44,6 +42,8 @@ Experienced across **full-stack development, system design, cloud and DevOps, bl
 | **Tools** | Git · GitHub · Postman · Jest · Mocha |
 
 ---
+
+## 📊 GitHub
 
 <div align="center">
 
@@ -65,6 +65,6 @@ Experienced across **full-stack development, system design, cloud and DevOps, bl
 
 <div align="center">
 
-**Building scalable systems across Web, Cloud, Blockchain & AI.**
+**Building scalable software across Web, Cloud, Blockchain & AI.**
 
 </div>

@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=160&section=header&text=Mrinal%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Java+%7C+DSA+%7C+System+Design;DevOps+%7C+Cloud;Blockchain (Solidity + Solana)+%7C+GenAI+%7C+LLMs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Java+%7C+Data+Structures+%26+Algorithms+%7C+System+Design;Cloud+%26+DevOps;Blockchain+%7C+Solidity+%7C+Solana;Generative+AI+%7C+LLMs+%7C+RAG" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,6 @@
 
 Full-Stack & Blockchain Developer focused on building **scalable backend systems, cloud-native applications, and AI-powered products**.
 
-Currently strengthening my foundation in **Java, DSA, System Design, Core CS, SQL/PostgreSQL**, while building deeper expertise in **AWS, DevOps, Kubernetes and Generative AI**.
 
 ---
 
@@ -67,12 +66,3 @@ Currently strengthening my foundation in **Java, DSA, System Design, Core CS, SQ
 
 ---
 
-## 🎯 Current Focus
-
-```text
-Java & DSA          → Problem Solving
-System Design       → Scalable Systems
-Core CS             → OS • DBMS • CN • OOP
-PostgreSQL          → SQL • Database Design
-AWS + DevOps        → Docker • Kubernetes • CI/CD
-GenAI               → LLMs • RAG • LangChain • LangGraph

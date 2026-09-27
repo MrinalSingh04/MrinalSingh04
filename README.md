@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Java+%7C+Data+Structures+%26+Algorithms+%7C+System+Design;Cloud+%26+DevOps;Blockchain+%7C+Solidity+%7C+Solana;Generative+AI+%7C+LLMs+%7C+RAG" alt="Typing SVG" />
 
+
+
+
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-singh-43a9661a0)

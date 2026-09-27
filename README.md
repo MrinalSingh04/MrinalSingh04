@@ -22,8 +22,9 @@
 
 ## 🧠 About Me
 
-Full-Stack & Blockchain Developer focused on building **scalable backend systems, cloud-native applications, and AI-powered products**.
+Full-Stack & Blockchain Developer focused on building scalable web applications, backend systems, cloud infrastructure, and AI-powered products.
 
+Interested in building production-ready systems across full-stack development, cloud-native engineering, blockchain, and Generative AI.
 
 ---
 
